@@ -1,0 +1,16 @@
+{
+    "student": [
+        {
+            "Name": "Dexter John Panis Requierme",
+            "Age": "21",
+            "Favorite_Quote": "The only way to do great work is to love what you do." - Steve Jobs
+        }
+    ],
+    "details": [
+        {
+            "Class_Section": "T90",
+            "Section_Code": "CC 131",
+            "BukSU_Email": "2001104041@student.buksu.edu.ph"
+        }
+    ]
+}
